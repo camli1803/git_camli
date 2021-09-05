@@ -1,0 +1,12 @@
+Yêu c?u 8:
+
+-L?nh t?o 1 branch feature-camli-rebase:
+git checkout -b feature-camli-rebase
+
+
+
+Yêu c?u 14:
+
+-L?nh merge branch feature-camli vào branch feature-camli-merge
+
+git merge feature-camli
