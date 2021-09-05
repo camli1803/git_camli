@@ -1,1 +1,1 @@
-Nguyen Thi Cam Li/ Git Exercies
+Nguyen Thi Cam Li
