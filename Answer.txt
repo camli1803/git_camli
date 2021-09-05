@@ -1,12 +1,12 @@
-Y�u c?u 8:
+Yêu cầu 8:
 
--L?nh t?o 1 branch feature-camli-rebase:
+-Lệnh tạo 1 branch feature-camli-rebase:
 git checkout -b feature-camli-rebase
 
 
 
-Y�u c?u 14:
+Yêu cầu 14:
 
--L?nh merge branch feature-camli v�o branch feature-camli-merge
+-Lệnh merge branch feature-camli vào branch feature-camli-merge
 
 git merge feature-camli
